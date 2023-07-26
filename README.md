@@ -1,5 +1,6 @@
 # E-Commerce-website-backened-project-DRF-
 
+Creating a Small API using Django REST Framework-
 here project name: gs1 
 and application name: api
 
